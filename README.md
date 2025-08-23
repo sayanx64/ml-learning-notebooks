@@ -1,23 +1,27 @@
-# ML Learning Notes 📒
+# **ML Learning Notes 📒**
 
 Welcome! This repository contains my machine learning learning journey, starting with core Python libraries like **Pandas** and **Matplotlib**. These notebooks include hands-on practice and basic data analysis tasks using real-world datasets.
 
 ---
 
-## 📌 What's Inside
+## -- What's Inside --
 
-- 🧠 **Learning Notebooks**:  
+- **Learning Notebooks**:  
   Jupyter notebooks with step-by-step practice on:
   - `pandas`: data manipulation, cleaning, exploration
   - `matplotlib`: visualizations (line plots, bar charts, pie charts, etc.)
 
-- 📂 **Datasets Used**:
+- **Assignment Dirs**
+
+- **Datasets Used**:
   - `california.csv`: housing data for visualization and analysis
   - `diabetes.csv`: medical dataset used for exploratory tasks
+  - `Titanic-Dataset.csv`: original passengers data from Titanic
+  - `student_data.csv`
 
 ---
 
-## 🔭 What's Next
+## **What's Next**
 
 - Add more notebooks on:
   - **NumPy**, **Seaborn**, and **Scikit-learn**
@@ -27,7 +31,7 @@ Welcome! This repository contains my machine learning learning journey, starting
 
 ---
 
-## 🚀 How to Use
+##  **How to Use**
 
 1. Clone the repo:
    ```bash
